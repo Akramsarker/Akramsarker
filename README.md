@@ -16,6 +16,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-akram-0b3b43202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-akram-0b3b43202/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/md.akram.shekh.146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.akram.shekh.146/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mdakram1112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdakram1112/" height="30" width="40" /></a>
+  <a href="https://twitter.com/dev_mdakram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.akram.shekh.146/" height="30" width="40" /></a>
+  <a href="https://github.com/Akramsarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.akram.shekh.146/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
