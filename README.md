@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akram Sheikh</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **100 app project**
+- 🔭 I’m currently working on **Mullokoto.com website**
 
 - 🌱 I’m currently learning **Firebase ,Nuxt js and etc**
 
