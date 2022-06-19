@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **Mullokoto website**
 
-- 🌱 I’m currently learning **Firebase ,Nuxt js and etc**
+- 🌱 I’m currently learning **Firebase,vuex,node js, Nuxt js and etc**
 
 - 👨‍💻 All of my projects are available at [https://mdakram.netlify.app/](https://mdakram.netlify.app/)
 
 - 📫 How to reach me **dev.mdakram@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
