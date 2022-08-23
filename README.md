@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Firebase,vuex,node js, Nuxt js and etc**
 
-- 👨‍💻 All of my projects are available at [https://mdakram.netlify.app/](https://mdakram.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akramsheikh.netlify.app/](https://akramsheikh.netlify.app/)
 
 - 📫 How to reach me **dev.mdakram@gmail.com**
 
