@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akram Sheikh</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **apollohms.co & nurii.co & mullokoto.com**
+- 🔭 I’m currently working on **apollohms.co & talkemma.ai & scribbletoart.com**
 
-- 🌱 I’m currently learning **Firebase, Superbase, Node.js & etc**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://akramsheikh.netlify.app/](https://akramsheikh.netlify.app/)
 
